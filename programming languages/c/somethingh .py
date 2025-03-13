@@ -1,0 +1,1 @@
+print("samajh bhai vo tujhse pyarr nahi karti")

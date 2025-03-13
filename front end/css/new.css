@@ -1,0 +1,15 @@
+*{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.pass{
+    background: green;
+}
+.pending{
+    background-color: red;
+}
+.inprocess{
+    background-color: rgb(28, 28, 26);
+}
